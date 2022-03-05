@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { Button, Col, Row } from 'sveltestrap';
-
 </script>
 
 <svelte:head>
